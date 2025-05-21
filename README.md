@@ -83,24 +83,25 @@ cd Sentiment-Analysis-ML
   note={Available at GitHub: https://github.com/grandmaster-01/Sentiment-Analysis-ML}
 }
 
-MIT License
+Academic and Research Use License
 
 Copyright (c) 2025 Umesh Naik and Charan S.B
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell     
-copies of the Software, and to permit persons to whom the Software is         
-furnished to do so, subject to the following conditions:                       
+This project is provided for **academic and research purposes only**.
 
-The above copyright notice and this permission notice shall be included in     
-all copies or substantial portions of the Software.                            
+You are allowed to:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR    
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,      
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE   
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER        
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN     
-THE SOFTWARE.
+- Use, copy, and modify the code and content for non-commercial academic or research use.
+- Share and cite the project in theses, publications, or educational settings with appropriate attribution.
+
+You are **not allowed to**:
+
+- Use this code or any part of it for commercial, for-profit, or production purposes.
+- Re-distribute modified versions without clear credit to the original authors.
+
+DISCLAIMER:  
+The software and related content are provided "AS IS", without any warranties of any kind, express or implied.
+The authors are not liable for any claims, damages, or other liabilities that may arise from its use.
+
+To request permissions for use beyond research and education, please contact the authors directly.
+
