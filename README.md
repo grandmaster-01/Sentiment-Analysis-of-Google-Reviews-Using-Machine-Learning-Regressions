@@ -72,7 +72,7 @@ The project compares the accuracy and performance of various models—both machi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Sentiment-Analysis-ML.git
+git clone https://github.com/grandmaster-01/Sentiment-Analysis-ML.git
 cd Sentiment-Analysis-ML
 
 @article{naik2025comparative,
@@ -84,15 +84,3 @@ cd Sentiment-Analysis-ML
 }
 
 
----
-
-### ✅ Next Steps:
-
-1. Replace `yourusername` in GitHub URLs and citation with your actual GitHub username.
-2. Add a `LICENSE` file if required (I can generate one for you—MIT, Apache 2.0, etc.).
-3. Place this `README.md` in your root project folder and commit it with:
-
-```bash
-git add README.md
-git commit -m "Added detailed project README"
-git push
