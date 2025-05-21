@@ -80,7 +80,7 @@ cd Sentiment-Analysis-ML
   author={Umesh Naik and Charan S.B},
   year={2025},
   journal={Chanakya University - MSC Data Science / MCA Research},
-  note={Available at GitHub: https://github.com/yourusername/Sentiment-Analysis-ML}
+  note={Available at GitHub: https://github.com/grandmaster-01/Sentiment-Analysis-ML}
 }
 
 
